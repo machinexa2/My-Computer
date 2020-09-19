@@ -1,6 +1,18 @@
+# Clone repositories
+
 read -p "Enter password: " passmepass
 passwrd=":""$passmepass""@"
-cat README.md  | awk -F '(' '{print $2}' | awk -F ')**' '{print $1}' | sort -u | while read repository
+noclone='I-am-New-To-Bug-Bounty|Saved-Games'
+cat README.md  | egrep -v $noclone |  awk -F '(' '{print $2}' | awk -F ')**' '{print $1}' | sort -u | while read repository
 do
-	echo "$repository"".git" | sed s/'github.com'/'machinexa2:@github.com'/g | sed s/':@'/$passwrd/g
+	if [ ! -z "$repository" ]; then
+		echo "$repository"".git" | sed s/'github.com'/'machinexa2:@github.com'/g | sed s/':@'/$passwrd/g
+	fi
 done
+
+# Setup Kali
+
+cd My-Knowledge/KaliSetup/
+cat apt.data | bash
+cat pip.data | bash
+cat tool.data | bash
