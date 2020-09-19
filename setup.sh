@@ -9,6 +9,7 @@ do
 		echo "$repository"".git" | sed s/'github.com'/'machinexa2:@github.com'/g | sed s/':@'/$passwrd/g
 	fi
 done
+bash .My-Computer.data 
 
 # Setup Kali
 
