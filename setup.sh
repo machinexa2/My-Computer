@@ -1,5 +1,4 @@
 # Clone repositories
-
 read -p "Enter password: " passmepass
 passwrd=":""$passmepass""@"
 noclone='I-am-New-To-Bug-Bounty|Saved-Games'
@@ -12,7 +11,6 @@ done
 bash .mycomputer.data 
 
 # Setup Kali
-
 cd My-Knowledge/KaliSetup/
 cat apt.data | bash
 cat pip.data | bash
