@@ -1,4 +1,3 @@
-# Clone repositories
 read -p "Enter password: " passmepass
 passwrd=":""$passmepass""@"
 noclone='I-am-New-To-Bug-Bounty|Saved-Games'
@@ -8,7 +7,7 @@ do
 		echo "$repository"".git" | sed s/'github.com'/'machinexa2:@github.com'/g | sed s/':@'/$passwrd/g
 	fi
 done
-bash .mycomputer.data 
+cat .mycomputer.data  | bash
 
 # Setup Kali
 cd My-Knowledge/KaliSetup/
