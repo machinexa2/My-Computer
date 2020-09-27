@@ -7,7 +7,7 @@ All Repositories brought together!
 * **[My Backup](https://github.com/machinexa2/My-Backup)**
 * **[My Books](https://github.com/machinexa2/My-Books)**
 * **[My CTFs](https://github.com/machinexa2/My-CTFs)**
-* **[My Document](https://github.com/machinexa2/My-Documents)**
+* **[My Documents](https://github.com/machinexa2/My-Documents)**
 * **[My Forks](https://github.com/machinexa2/My-Forks)**
 * **[My Knowledge](https://github.com/machinexa2/My-Knowledge)**
 * **[My Projects](https://github.com/machinexa2/My-Projects)**
