@@ -1,3 +1,4 @@
+CURRENT="`pwd`"
 mkdir Softwares 2>/dev/null
 read -p "Enter password: " passmepass
 
@@ -14,6 +15,7 @@ done
 
 # Setup Kali
 cd My-Knowledge/KaliSetup/
-bash apt.data
-bash pip.data
-bash tool.data
+	bash apt.data
+	bash pip.data
+	bash tool.data
+cd $CURRENT

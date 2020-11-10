@@ -11,6 +11,7 @@ All Repositories brought together!
 * **[My Forks](https://github.com/machinexa2/My-Forks)**
 * **[My Knowledge](https://github.com/machinexa2/My-Knowledge)**
 * **[My Projects](https://github.com/machinexa2/My-Projects)**
+* **[My Music](https://github.com/machinexa2/My-Music)**
 * **[My Scripts](https://github.com/machinexa2/My-Scripts)**
 * **[My Tools](https://github.com/machinexa2/My-Tools)**
 * **[My Working](https://github.com/machinexa2/My-Working)**
