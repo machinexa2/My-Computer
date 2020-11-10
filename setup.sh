@@ -14,6 +14,6 @@ done
 
 # Setup Kali
 cd My-Knowledge/KaliSetup/
-cat apt.data | bash
-cat pip.data | bash
-cat tool.data | bash
+bash apt.data
+bash pip.data
+bash tool.data
