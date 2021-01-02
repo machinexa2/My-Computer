@@ -10,6 +10,7 @@ All Repositories brought together!
 * **[My Documents](https://github.com/machinexa2/My-Documents)**
 * **[My Forks](https://github.com/machinexa2/My-Forks)**
 * **[My Knowledge](https://github.com/machinexa2/My-Knowledge)**
+* **[My Libraries](https://github.com/machinexa2/My-Libraries)**
 * **[My Projects](https://github.com/machinexa2/My-Projects)**
 * **[My Music](https://github.com/machinexa2/My-Music)**
 * **[My Scripts](https://github.com/machinexa2/My-Scripts)**
